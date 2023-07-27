@@ -21,8 +21,8 @@ const Detail = () => {
         <p className="desc">
           Do you have a job opportunity or idea you'd like to discuss? Feel free
           to reach me at fieldbeixin@gmail.com.You can also find me On Github,
-          and Linkedin. Also text and call are always welcomed, My phone number
-          is 587-968-2732.
+          and Linkedin. Of course text and call are always welcomed, My phone
+          number is 587-968-2732.
         </p>
       </section>
     </Wrapper>
