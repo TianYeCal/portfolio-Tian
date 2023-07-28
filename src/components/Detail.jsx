@@ -7,11 +7,10 @@ const Detail = () => {
       <section className="intro">
         <h2 className="title">welcome!</h2>
         <p className="desc">
-          Hi! I'm a front-end developer based in Calgary, Canada. I completed
-          Bachelor of Computer Science in Beijing, and learned new knowledge
-          about front-end development. I build websites mainly with React. I
-          have a passion for all things about technology, easier person, also a
-          boxing lover.
+          Hi! I'm a front-end developer based in Calgary. Bachelor of Computer
+          Science, a strong foundation in HTML, CSS, JavaScript and React. I am
+          enthusiastic about the opportunity to contribute my skills and passion
+          to your esteemed organization. an easier person, also a boxing lover.
         </p>
         <div className="underline"></div>
       </section>
@@ -19,10 +18,9 @@ const Detail = () => {
       <section className="contact">
         <h3 className="title">Get in touch</h3>
         <p className="desc">
-          Do you have a job opportunity or idea you'd like to discuss? Feel free
-          to reach me at fieldbeixin@gmail.com.You can also find me On Github,
-          and Linkedin. Of course text and call are always welcomed, My phone
-          number is 587-968-2732.
+          Do you have a job opportunity or idea you'd like to discuss? please
+          feel free to contact me via email at fieldbeixin@gmail.com or by phone
+          at 587-968-2732. I'd love to hear from you.😉
         </p>
       </section>
     </Wrapper>
